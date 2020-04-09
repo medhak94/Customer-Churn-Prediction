@@ -1,7 +1,5 @@
 # Customer-Churn-Prediction
 
-# Customer-Churn-Prediction
-
 
 # Problem Statement
 
